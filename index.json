@@ -1,34 +1,10 @@
 {
-    "cars":[
-        {
-            "id":"1",
-            "name":"porche 911 gt3",
-            "img":"https://i.postimg.cc/qqhJKgJn/DSC00203.jpg",
-            "price":"R3 109 000"
-        },
-        {
-            "id":"2",
-            "name":"BMW 325i",
-            "img":"https://i.postimg.cc/BZBc7g0X/E30-BMW-M3-test-drive-95.jpg",
-            "price":"R900 000"
-        },
-        {
-            "id":"3",
-            "name":"Bugatti chiron",
-            "img":"https://i.postimg.cc/zDM9d8Sd/se-image-9d570bf41153dbc38a79750d2f377da5.jpg",
-            "price":"R50 000 000"
-        },
-        {
-            "id":"4",
-            "name":"68 fastback Ford Mustang",
-            "img":"https://i.postimg.cc/VsnjTPxf/Villain-67-68-Ford-Mustang-Fastback-Restomod-13.webp",
-            "price":"R1 139 900"
-        },
-        {
-            "id":"5",
-            "name":"Corvette Stingray",
-            "img":"https://i.postimg.cc/QtXv9qGw/238f7bb14be56dcdc35f65588edf5c76.jpg",
-            "price":"R1 462 446,66"
-        }
+    "Step1": [
+
+       { "question": "Do You Have Your DD214?",
+         "Image": "assets/img/american-flag-3.jpg",
+         "btn-1": "Yes",
+         "btn-2": "No" 
+    } 
     ]
 }
