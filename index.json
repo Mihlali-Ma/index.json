@@ -1,4 +1,4 @@
-{
+
     [
 
        { "question": "Do You Have Your DD214?",
@@ -7,4 +7,3 @@
          "btn-2": "No" 
     } 
     ]
-}
