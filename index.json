@@ -2,7 +2,7 @@
     [
 
        { "question": "Do You Have Your DD214?",
-         "Image": "assets/img/american-flag-3.jpg",
+         "Image": "assets/img/profile.png",
          "btn-1": "Yes",
          "btn-2": "No" 
     } 
