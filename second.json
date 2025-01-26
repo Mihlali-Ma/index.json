@@ -1,1 +1,13 @@
-
+[
+          {
+            "question2": "What Branch Of The Military Did You Serve In?",
+            "Img": "assets/img/army.png",
+            "btn3": "The Army",
+            "btn4": "Marines",
+            "btn5": "Air Force",
+            "btn6": "Navy",
+            "btn7": "Coast Guard",
+            "btn8": "Space Force"
+            
+        }
+]
